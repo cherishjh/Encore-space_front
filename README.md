@@ -28,9 +28,9 @@
 # 개별 작업 결과물
 
 - 📕 [SPACE](https://github.com/beyond-sw-camp/be03-3rd-4team-encoreSPACE/blob/develop/docs/Space/README.md)
-- 📙 [POST, 댓글, 좋아요](https://github.com/beyond-sw-camp/be03-3rd-4team-encoreSPACE/blob/develop/docs/docs_GyeongNam/README.md)
-- 📗 [채팅 서비스](https://github.com/beyond-sw-camp/be03-3rd-4team-encoreSPACE/tree/develop/docs/docs_jaeseok)
-- 📘 [회원가입 및 로그인 서비스 및 프론트엔드](https://github.com/beyond-sw-camp/be03-3rd-4team-encoreSPACE/tree/develop/docs/heejun_docs)
+- 📙 [POST, 댓글, 좋아요](https://github.com/beyond-sw-camp/be03-2nd-4team-encoreSPACE/blob/develop/docs/heejun_docs/README.md)
+- 📗 [채팅 서비스](https://github.com/beyond-sw-camp/be03-2nd-4team-encoreSPACE/blob/develop/docs/docs_jaeseok/README.md)
+- 📘 [회원가입 및 로그인 서비스 및 프론트엔드](https://github.com/beyond-sw-camp/be03-3rd-4team-encoreSPACE/blob/develop/docs/docs_GyeongNam/README.md)
 
 
 
